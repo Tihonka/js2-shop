@@ -16,7 +16,9 @@
   "devDependencies": {},
   "scripts": {
     "test": "jasmine",
-    "build": "webpack"
+    "build": "webpack",
+    "watch": "webpack -w"
+
   },
   "repository": {
     "type": "git",
